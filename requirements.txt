@@ -1,0 +1,14 @@
+anyio==3.5.0
+certifi==2021.10.8
+charset-normalizer==2.0.10
+h11==0.12.0
+httpcore==0.14.5
+httpx==0.21.3
+idna==3.3
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+rfc3986==1.5.0
+sniffio==1.2.0
+youtube-dl==2021.12.17
+youtube-search-python==1.6.1
