@@ -13,4 +13,4 @@
   
   Подробней на вкладке Wiki
 
-Скачать собранный вариант программы: https://vk.com/away.php?to=https%3A%2F%2Fdisk.yandex.ru%2Fd%2FEL2lsquhHN_3jQ
+Скачать собранный вариант программы: https://disk.yandex.ru/d/EL2lsquhHN_3jQ
